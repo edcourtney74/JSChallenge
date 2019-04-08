@@ -38,6 +38,11 @@ body,html {
   box-shadow: 0 0 1rem #ffc600;
 }
 
+.played {
+  border-color: white;
+  transition: all .07s ease;
+}
+
 kbd {
   display: block;
   font-size: 4rem;
